@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheElri12
 - 👀 I’m interested in coding and musik.
-- 🌱 I’m currently learning coding HTML and CSS.
+- 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: On my discord https://tinyurl.com/ACMGDC
 - 😄 Pronouns: He/Him
