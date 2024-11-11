@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🍀 About Me:
 - 👋 Hi, I’m @TheElri12
 - 👀 I’m interested in coding and musik.
 - 🌱 I’m currently learning HTML and CSS.
