@@ -1,11 +1,10 @@
-# 🍀 About Me:
-- 👋 Hi, I’m @TheElri12
-- 👀 I’m interested in coding and musik.
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me: On my [Discord](hhttps://tinyurl.com/ACMGDC)
-- 💞️ I am searching for some body who can make minecraft mods.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 🤔 I am a Minecraft fan and i know a lot about it.<br>
+`TheElri12.jar         —⠀❐⠀⤬`
+> • Bester Minecraft Client:
+> https://nrc.gg/invite/TheElri12
+> • FreundeMC:
+> https://theelri12.de/
+> • Cloudz Netzwerk:
+> https://theelri12.de/cloudz
 
 
 ## 🌐 Socials:
