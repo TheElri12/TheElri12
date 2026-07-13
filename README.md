@@ -1,5 +1,5 @@
 `TheElri12.jar               —⠀❐⠀⤬`
-> • Bester Minecraft Client:
+> #• Bester Minecraft Client:
 > https://nrc.gg/invite/TheElri12
 > • AmethystSMP:
 > https://theelri12.de/
