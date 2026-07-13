@@ -1,14 +1,17 @@
-`TheElri12.jar         —⠀❐⠀⤬`
+`TheElri12.jar               —⠀❐⠀⤬`
 > • Bester Minecraft Client:
 > https://nrc.gg/invite/TheElri12
-> • FreundeMC:
+> • AmethystSMP:
 > https://theelri12.de/
 > • Cloudz Netzwerk:
 > https://theelri12.de/cloudz
+> • Mein Discord:
+> https://discord.gg/hZgVGmPWRN
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](hhttps://discord.gg/Yx3wHcayED) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/theelri12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theelri12) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TheElri12)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](hhttps://discord.gg/Yx3wHcayED) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/theelri12)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theelri12) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TheElri12)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q31D6R06)
 
 # 💻 Tech Stack:
